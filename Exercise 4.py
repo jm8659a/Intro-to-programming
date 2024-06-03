@@ -9,3 +9,6 @@ number = 1
 while number%5 != 0 or number%6 != 0 or number%7 != 0 or number%8 != 0 or number%9 != 0:
     number += 1
 print(number)
+
+number = 1
+while true
